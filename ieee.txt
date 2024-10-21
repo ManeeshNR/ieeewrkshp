@@ -1,0 +1,49 @@
+What is HTML?
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language for creating Web pages
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display the content
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+Comments in HTML
+This is part of code that should not be parsed.
+<!-- This is an HTML Comment -->
+
+Notice that there is an exclamation point (!) in the start tag, but not in the end tag.
+
+HTML is Not Case Sensitive.
+
+HTML Attributes :
+The href Attribute:
+
+            The <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to.
+
+The src Attribute:
+
+             The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed
+
+Heading Tag :
+HTML headings are titles or subtitles that you want to display on a webpage.
+
+h1 (most important)
+h3
+h2
+h4
+h5
+h6 (least important)
+
+
+Paragraph Tag
+Used to add paragraphs in HTML
+       <p> This is a sample paragraph </p>
+
+Anchor Tag
+Used to add links to your page
+       <a href="https://google.com"> Google </a>
+
+Image Tag            -                       Used to add images to your page
+Br Tag                  -                       Used to add next line to your page 
+Bold, Italic & Underline Tags  -   Used to highlight text in your page
+Hr Tag      -     Used to display a horizontal ruler, used to separate content
+Subscript & Superscript Tag -  Used to display a horizontal ruler, used to separate content
